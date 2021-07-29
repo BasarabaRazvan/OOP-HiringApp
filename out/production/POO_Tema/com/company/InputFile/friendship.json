@@ -1,0 +1,56 @@
+{
+  "friendship": [
+    {
+      "name": "Daniel Edmund",
+      "arr": ["Julia Matvei", "Leyla Stacy"]
+    },
+    {
+      "name": "Julia Matvei",
+      "arr": ["Daniel Edmund", "Jonie Phillip", "Steward Goodwin"]
+    },
+    {
+      "name": "Tamara Haci",
+      "arr": ["Linette Spartak", "Leyla Stacy"]
+    },
+    {
+      "name": "Linette Spartak",
+      "arr": ["Tamara Haci", "Bryson Reenie"]
+    },
+    {
+      "name": "Shana Addy",
+      "arr": ["Bryson Reenie", "Darrell Lillie"]
+    },
+    {
+      "name": "Leyla Stacy",
+      "arr": ["Daniel Edmund", "Tamara Haci", "Rolland Lyla", "Janine Woody"]
+    },
+    {
+      "name": "Rolland Lyla",
+      "arr": ["Leyla Stacy", "Damian Bodhi"]
+    },
+    {
+      "name": "Bryson Reenie",
+      "arr": ["Shana Addy", "Linette Spartak"]
+    },
+    {
+      "name": "Steward Goodwin",
+      "arr": ["Julia Matvei"]
+    },
+    {
+      "name": "Jonie Phillip",
+      "arr": ["Julia Matvei"]
+    },
+    {
+      "name": "Janine Woody",
+      "arr": ["Leyla Stacy"]
+    },
+    {
+      "name": "Darrell Lillie",
+      "arr": ["Shana Addy"]
+    },
+    {
+      "name": "Damian Bodhi",
+      "arr": ["Rolland Lyla"]
+    }
+  ]
+}

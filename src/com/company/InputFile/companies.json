@@ -1,0 +1,16 @@
+{
+    "companies": [
+      {
+        "name" : "Google",
+        "name_manager": "Sundar Pichai",
+        "name_recruiters": ["Jonie Phillip", "Janine Woody"],
+        "name_employes": ["Rolland Lyla", "Steward Goodwin", "Molly Rylie", "Morley Denise", "Bryson Reenie"]
+      },
+      {
+        "name" : "Amazon",
+        "name_manager": "Jeff Bezos",
+        "name_recruiters": ["Darrell Lillie", "Damian Bodhi"],
+        "name_employes": ["Harmony Lorinda", "Shana Addy", "Leyla Stacy", "Jarred Egber", "Bethney Kiara"]
+      }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "jobs":[
+      {
+        "name": "Software Developer Engineer",
+        "company": "Google",
+        "department": "IT",
+        "status": false,
+        "constraint":[
+          {
+              "min": 2002,
+              "max": 2020
+          },
+          {
+              "min": 2,
+              "max": 6
+          },
+          {
+              "min": 8,
+              "max": null
+          }
+        ],
+        "nrCanditati": 1,
+        "salariu": 4000
+      },
+      {
+        "name": "Software Developer Engineer Intern",
+        "company": "Google",
+        "department": "IT",
+        "status": false,
+        "constraint":[
+          {
+            "min": null,
+            "max": null
+          },
+          {
+            "min": 0,
+            "max": 2
+          },
+          {
+            "min": 9,
+            "max": null
+          }
+        ],
+        "nrCanditati": 1,
+        "salariu": 4000
+      },
+      {
+        "name": "Software Developer Engineer",
+        "company": "Amazon",
+        "department": "IT",
+        "status": false,
+        "constraint":[
+          {
+            "min": 2014,
+            "max": 2020
+          },
+          {
+            "min": 1,
+            "max": null
+          },
+          {
+            "min": 9,
+            "max": null
+          }
+        ],
+        "nrCanditati": 1,
+        "salariu": 4000
+      },
+      {
+        "name": "Software Developer Engineer Intern",
+        "company": "Amazon",
+        "department": "IT",
+        "status": false,
+        "constraint":[
+          {
+            "min": null,
+            "max": null
+          },
+          {
+            "min": 0,
+            "max": 2
+          },
+          {
+            "min": 9.35,
+            "max": null
+          }
+        ],
+        "nrCanditati": 1,
+        "salariu": 4000
+      }
+    ]
+}
